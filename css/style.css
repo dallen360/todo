@@ -30,6 +30,9 @@ body {
     padding: 1rem 1rem;
     border-top-left-radius: 1rem;
     border-bottom-left-radius: 1rem; }
+  .todo__text {
+    width: 70%;
+    overflow-wrap: break-word; }
   .todo__btn {
     background-color: #9795ff;
     font-size: 1.6rem; }

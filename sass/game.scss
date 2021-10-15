@@ -45,10 +45,16 @@ body {
     border-bottom-left-radius: 1rem;
   }
 
+  &__text {
+    width: 70%;
+    overflow-wrap: break-word;
+  }
+
   &__btn {
     background-color: rgb(151, 149, 255);
     font-size: 1.6rem;
   }
+
   // bottom hlaf
 
   &__container {
